@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ogomide</h1>
-<h3 align="center">A Frontend developer who is passionate about creating aesthetically pleasing, functional and engaging User interface designs for mobile applications.</h3>
+<h3 align="center">A Software developer who is passionate about creating aesthetically pleasing, functional and engaging User interface designs for mobile applications.</h3>
 
 - 🌱 I’m currently learning **React Native, React**
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React Native, Data Science, Machine Learning**
 
 - 📫 How to reach me **ogomidesamuel10@gmail.com**
 
