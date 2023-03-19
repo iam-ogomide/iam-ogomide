@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React Native, Data Science, Machine Learning**
 
-- 📫 How to reach me **ogomidesamuel10@gmail.com**
+- 📫 How to reach me **ogomidedaramola@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
