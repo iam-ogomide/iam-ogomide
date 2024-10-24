@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ogomide</h1>
 <h3 align="center">A Software developer who is passionate about creating aesthetically pleasing, functional and engaging User interface designs for both web and mobile applications.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node**
 
-- 💬 Ask me about **React Native,React, Data Analysis, Machine Learning**
+- 💬 Ask me about **Angular,React,Typescript, Machine Learning**
 
 - 📫 How to reach me **ogomidedaramola@gmail.com**
 
